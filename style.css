@@ -1,0 +1,30 @@
+body  {
+    background-color:rgb(0, 204, 255);
+    width: 100%;
+}
+
+h1,h6{
+    color: black;
+    font-family:Cambria;
+}
+
+h1{
+    font-style:italic;
+    font-size:30px;
+    text-align:center ;
+}
+
+img{
+    border: 2px solid rgba(0, 195, 255, 0);
+}
+
+
+li{
+    color:rgb(17, 71, 17);
+    font: size 12px; 
+    font-family: cambria;
+}
+
+ol li{
+    padding:2px
+}
